@@ -1,0 +1,37 @@
+10001 Nachos 30 2
+10002 Nachos 30 2 Pizza 150 9 
+10003 Noodles 99 5 Chicken_Roll 60 2 
+10004 Nachos 30 2 Pizza 150 2 
+10005 Nachos 30 5 Noodles 99 5 
+10006 Sandwich 40 2 Chicken_Roll 60 2 Burger 70 2 Rajma_Chawal 125 2 
+10007 Noodles 99 5 Noodles 99 5 
+10008 Burger 70 2 Sandwich 40 2 Pizza 150 5 
+10009 Noodles 99 4 Samosa 10 6 
+10010 Samosa 10 2 Pizza 150 1 
+10011 Noodles 99 1 Burger 70 1 
+10012 Noodles 99 1 Nachos 30 1 
+10013 Noodles 99 1 
+10014 Samosa 10 2 
+10015 Noodles 99 1 Nachos 30 2 
+10016 Noodles 99 1 
+10017 Noodles 99 1 
+10018 Noodles 99 1 
+10019 Ice_Cream 60 1 
+10020 Noodles 99 1 
+10021 Samosa 10 2 
+10022 Noodles 99 1 
+10023 Noodles 99 1 
+10024 Noodles 99 1 Burger 70 1 
+10025 Nachos 30 1 Noodles 99 1 Samosa 10 2 
+10026 Noodles 99 1 Samosa 10 2 
+10027 Noodles 99 1 Noodles 99 1 
+10028 Noodles 99 1 Sandwich 40 1 Cake 250 1 
+10029 Samosa 10 1 
+10030 Noodles 99 1 
+10031 Noodles 99 1 
+10032 Noodles 99 3 Samosa 10 4 
+10033 Nachos 30 1 Burger 70 3 
+10034 Noodles 99 1 
+10035 Noodles 99 1 
+10036 Noodles 99 1 
+10037 Samosa 10 2 
