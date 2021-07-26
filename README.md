@@ -1,5 +1,5 @@
 # Secure-Food-Delivery-System
-Built a command line interface using C programming By which user can order the food 
-and makes the user information mores secure using Encryption Algorithm and
-Shows the shortest path for the user by using the shortest path
-algorithm
+Built a CLI-based secure food delivery system using C programming,
+In which the user information is secure using an Encryption
+Algorithm and Shows the shortest path to the user of their desired
+location.
